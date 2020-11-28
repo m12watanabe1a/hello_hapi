@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######`
+mtcnn
+
+###### Requirements with Version Specifiers ######`
+keras>=2.0.0
+opencv-python>=4.1.0
